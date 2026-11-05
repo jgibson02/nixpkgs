@@ -15,6 +15,7 @@
   libxkbcommon,
   libxshmfence,
   libGL,
+  libva,
   vulkan-loader,
   alsa-lib,
   cairo,
@@ -128,6 +129,7 @@ let
     libxkbcommon
     libxshmfence
     libGL
+    libva
     vulkan-loader
   ];
 
